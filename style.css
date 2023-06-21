@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;700&family=Orbitron:wght@500&family=Poppins:wght@200;300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap");
 * {
   margin: 0;
   padding: 0;
@@ -10,6 +10,7 @@
   --white-color: #fff;
   --black-color: #18191a;
   --red-color: #e74c3c;
+  --blue-color: #0d6efd;
 }
 body {
   display: flex;
@@ -84,7 +85,7 @@ body.dark {
 .hand.minute {
   height: 120px;
   width: 6px;
-  background-color: var(--black-color);
+  background-color: blue;
 }
 .hand.hour {
   height: 100px;
