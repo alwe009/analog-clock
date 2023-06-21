@@ -36,6 +36,7 @@ body.dark {
   display: flex;
   height: 400px;
   width: 400px;
+  /* border: 1px solid var(--black-color); */
   border-radius: 50%;
   align-items: center;
   justify-content: center;
