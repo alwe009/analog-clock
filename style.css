@@ -85,7 +85,7 @@ body.dark {
 .hand.minute {
   height: 120px;
   width: 6px;
-  background-color: blue;
+  background-color: #0d6efd;
 }
 .hand.hour {
   height: 100px;
